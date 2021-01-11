@@ -25,11 +25,11 @@ msgstr "載入中"
 
 #: config.php:99, config.php:126, admin/pages/page-dashboard.php:92
 msgid "Reloading"
-msgstr "重裝"
+msgstr "重新載入中"
 
 #: config.php:101
 msgid "Invalid License Key"
-msgstr "無效的許可證密鑰"
+msgstr "無效的授權碼"
 
 #: config.php:103, admin/pages/page-logs.php:60, admin/pages/page-logs.php:72
 msgid "All"
@@ -37,7 +37,7 @@ msgstr "所有"
 
 #: config.php:104, config.php:112
 msgid "Connected"
-msgstr "連接的"
+msgstr "已連接"
 
 #: config.php:105, config.php:113
 msgid "Not connected"
@@ -45,7 +45,7 @@ msgstr "未連接"
 
 #: config.php:106, admin/pages/page-dashboard.php:258
 msgid "Installed"
-msgstr "安裝"
+msgstr "已安裝"
 
 #: config.php:107, config.php:109
 msgid "Not installed"
@@ -53,11 +53,11 @@ msgstr "未安裝"
 
 #: config.php:110
 msgid "Coming soon"
-msgstr "快來了"
+msgstr "即將推出"
 
 #: config.php:111
 msgid "Requirements"
-msgstr "要求"
+msgstr "配備要求"
 
 #: config.php:115
 msgid "Buy now"
@@ -73,15 +73,15 @@ msgstr "安裝"
 
 #: config.php:118
 msgid "Installing"
-msgstr "安裝"
+msgstr "安裝中"
 
 #: config.php:119
 msgid "Update to"
-msgstr "更新"
+msgstr "更新至"
 
 #: config.php:120
 msgid "Updating to"
-msgstr "更新到"
+msgstr "正在更新至"
 
 #: config.php:121
 msgid "Activate"
@@ -89,7 +89,7 @@ msgstr "啟用"
 
 #: config.php:122
 msgid "Activating"
-msgstr "激活"
+msgstr "正在啟用"
 
 #: config.php:123
 msgid "Deactivate"
@@ -97,39 +97,39 @@ msgstr "停用"
 
 #: config.php:124
 msgid "Active theme"
-msgstr "活動主題"
+msgstr "啟用主題"
 
 #: config.php:125
 msgid "Deactivating"
-msgstr "停用"
+msgstr "停用中"
 
 #: config.php:128
 msgid "Your WP-Script Gold subscription has expired. Reactivate it and get instant access to all existing and future WP-Script products"
-msgstr "您的WP-腳本黃金會員已過期。重新激活它，並獲得所有現有的和未來的WP-腳本產品的即時訪問"
+msgstr "您的WP-Script會員已過期。請重新激活，並獲得所有現有的和未來即將推出的WP-Script產品"
 
 #: config.php:129
 msgid "Join WP-Script Gold and get access to all existing and future WP-Script products"
-msgstr "加入WP-腳本黃金和獲得所有現有和未來的WP-腳本產品"
+msgstr "立即加入我們並獲得所有現有的和未來即將推出的WP-Script產品"
 
 #: config.php:130
 msgid "Connect this site with your WP-Script Gold subscription and get instant access to all existing and future WP-Script products"
-msgstr "連接這個網站與您的WP-腳本黃金會員，並獲得所有現有的和未來的WP-腳本產品的即時訪問"
+msgstr "將這個網站連接您的WP-Script會員帳號，獲得所有現有的和未來即將推出的WP-Script產品授權"
 
 #: config.php:131
 msgid "You've reached the limit of sites you can connect with your current WP-Script Gold plan"
-msgstr "您已經達到了可以與您當前的WP-腳本金計劃連接站點的限制"
+msgstr "您已經達到了可連結的域名限制"
 
 #: config.php:132
 msgid "Join WP-Script Gold"
-msgstr "加入WP-腳本金"
+msgstr "成為WP-Script會員"
 
 #: config.php:133
 msgid "Reactivate WP-Script Gold"
-msgstr "重新激活WP-腳本金"
+msgstr "重新激活WP-Script會員帳號"
 
 #: config.php:134
 msgid "Upgrade WP-Script Gold plan"
-msgstr "升級WP-腳本金計劃"
+msgstr "升級WP-Script會員帳號"
 
 #: config.php:135
 msgid "Contact us"
@@ -137,7 +137,7 @@ msgstr "聯繫我們"
 
 #: wp-script-core.php:906, wp-script-core.php:906, wp-script-core.php:1032
 msgid "Help"
-msgstr "救命"
+msgstr "幫助中心"
 
 #: wp-script-core.php:1022
 msgid "Plugins"
@@ -145,15 +145,15 @@ msgstr "插件"
 
 #: wp-script-core.php:1053
 msgid "Thank you for using"
-msgstr "感謝您使用"
+msgstr "感謝您使用WP-Script"
 
 #: admin/class/class-wpscore-api.php:107, admin/class/class-wpscore-api.php:129
 msgid "Params must be an array"
-msgstr "PARAMS必須是一個數組"
+msgstr "Params必須是一個數組"
 
 #: admin/class/class-wpscore-log.php:89
 msgid "Log file error"
-msgstr "日誌文件錯誤"
+msgstr "Log文件錯誤"
 
 #: admin/hooks/hooks.php:18
 msgid "Thumbnail"
@@ -165,19 +165,19 @@ msgstr "夥伴"
 
 #: admin/pages/page-dashboard.php:28
 msgid "Loading Core"
-msgstr "加載核心"
+msgstr "正在加載核心文件"
 
 #: admin/pages/page-dashboard.php:35
 msgid "Wordfence firewall is enabled"
-msgstr "Wordfence啟用防火牆"
+msgstr "Wordfence防火牆已啟用"
 
 #: admin/pages/page-dashboard.php:36
 msgid "Wordfence Firewall mode is enabled and can prevent WP-Script plugins to work properly because of false positive."
-msgstr "Wordfence防火牆模式被激活，並且可以防止WP-腳本插件才能正常，因為假陽性的工作。"
+msgstr "Wordfence防火牆模式已啟用，並且可以防止WP-Script插件因錯誤而無法正常運作。"
 
 #: admin/pages/page-dashboard.php:36
 msgid "Learn more"
-msgstr "學到更多"
+msgstr "了解更多"
 
 #: admin/pages/page-dashboard.php:57
 msgid "Loading Data"
@@ -193,23 +193,23 @@ msgstr "激活成功"
 
 #: admin/pages/page-dashboard.php:99
 msgid "Paste your WP-Script License Key here"
-msgstr "請在這裡貼上您的WP-腳本許可證密鑰"
+msgstr "請在這裡貼上您的WP-Script授權碼"
 
 #: admin/pages/page-dashboard.php:103
 msgid "Activating License"
-msgstr "激活許可證"
+msgstr "激活授權碼"
 
 #: admin/pages/page-dashboard.php:106
 msgid "Activate my WP-Script License"
-msgstr "激活我的WP-腳本許可證"
+msgstr "激活我的WP-Script授權碼"
 
 #: admin/pages/page-dashboard.php:113, admin/pages/page-dashboard.php:113
 msgid "Go to your WP-Script account to get your license key"
-msgstr "轉到您的WP-腳本賬戶得到您的許可密鑰"
+msgstr "前往您的WP-Script賬戶，找到您的授權碼"
 
 #: admin/pages/page-dashboard.php:115
 msgid "You don't have a WP-Script license yet?"
-msgstr "你沒有一個WP-腳本許可證了嗎？"
+msgstr "還沒購買WP-Script授權碼?"
 
 #: admin/pages/page-dashboard.php:127
 msgid "Creating account"
@@ -217,15 +217,15 @@ msgstr "創建帳戶"
 
 #: admin/pages/page-dashboard.php:130
 msgid "Create my WP-Script Account"
-msgstr "創建我的WP-腳本賬戶"
+msgstr "創建我的WP-Script賬戶"
 
 #: admin/pages/page-dashboard.php:137
 msgid "You're going to create your unique WP-Script account"
-msgstr "你要創建獨特的WP-腳本賬戶"
+msgstr "正在創建你的專屬WP-Script賬戶"
 
 #: admin/pages/page-dashboard.php:137
 msgid "You will receive your login details to this email address"
-msgstr "您將收到您的登錄信息到這個電子郵件地址"
+msgstr "您將在這個電子郵件地址收到您的登錄信息"
 
 #: admin/pages/page-dashboard.php:137
 msgid "No spam"
@@ -237,44 +237,44 @@ msgstr "更多信息"
 
 #: admin/pages/page-dashboard.php:151
 msgid "Site connected with WP-Script Gold"
-msgstr "網站與WP-腳本連接金"
+msgstr "網站已連接WP-Script"
 
 #: admin/pages/page-dashboard.php:153
 msgid "Your WP-Script License Key"
-msgstr "您的WP-腳本許可證密鑰"
+msgstr "您的WP-Script授權碼"
 
 #: admin/pages/page-dashboard.php:169
 msgid "WP-Script Gold"
-msgstr "WP-腳本金"
+msgstr "WP-Script會員"
 
 #: admin/pages/page-dashboard.php:170
 msgid "About WP-Script Gold"
-msgstr "關於WP-腳本金"
+msgstr "關於WP-Script會員"
 
 #: admin/pages/page-dashboard.php:44
 msgid "PHP > 5.3.0 is required"
-msgstr "PHP> 5.3.0要求"
+msgstr "PHP版本需高於5.3.0"
 
 #: admin/pages/page-dashboard.php:47
 msgctxt "[PHP version] is required..."
 msgid "is required to use WP-Script products. Your PHP version (%s) is too old. Please contact your hoster to update it"
-msgstr "需要使用WP-腳本產品。您的PHP版本 (%s) 太舊。請聯繫您的主機供應商更新"
+msgstr "並不符合基本要求，您的PHP版本 (%s) 太舊，如需要使用WP-Script產品，請聯繫您的主機供應商進行更新"
 
 #: admin/pages/page-dashboard.php:203, admin/pages/page-dashboard.php:245, admin/pages/page-dashboard.php:295
 msgid "Close"
-msgstr "關"
+msgstr "關閉"
 
 #: admin/pages/page-dashboard.php:204
 msgid "How WP-Script products connection works?"
-msgstr "如何WP-腳本產品連接的作品？"
+msgstr "如何與WP-Script產品連接？"
 
 #: admin/pages/page-dashboard.php:208
 msgid "The button under each product will automatically change depending on the step you are in."
-msgstr "每個產品下面的按鍵將根據步驟中，您在自動改變。"
+msgstr "每個產品下面的按鍵將根據您的狀態改變"
 
 #: admin/pages/page-dashboard.php:212
 msgid "Purchase any product you need"
-msgstr "購買你需要的任何產品"
+msgstr "購買你需要的產品"
 
 #: admin/pages/page-dashboard.php:218
 msgid "Connect the purchased product"
@@ -290,15 +290,15 @@ msgstr "激活所購產品"
 
 #: admin/pages/page-dashboard.php:246
 msgid "Requirements for"
-msgstr "對於要求"
+msgstr "對於"
 
 #: admin/pages/page-dashboard.php:250
 msgid "There is no requirement to use this product. This product will work properly."
-msgstr "沒有規定使用本產品。該產品將正常工作。"
+msgstr "本產品並非無使用要求，產品將正常工作。"
 
 #: admin/pages/page-dashboard.php:253
 msgid "The following PHP elements must be installed on your server to use this product"
-msgstr "下面的PHP元素必須在服務器使用本產品上安裝"
+msgstr "如要使用本產品，安裝必須在服務器上安裝下列的PHP元件"
 
 #: admin/pages/page-dashboard.php:256
 msgid "Name"
@@ -314,15 +314,15 @@ msgstr "是"
 
 #: admin/pages/page-dashboard.php:272
 msgid "no"
-msgstr "沒有"
+msgstr "否"
 
 #: admin/pages/page-dashboard.php:278
 msgid "All required PHP elements are installed on your server. This product will work properly."
-msgstr "所有需要的PHP元素被安裝在服務器上。該產品將正常工作。"
+msgstr "所有需要的PHP元件已在服務器上安裝，該產品將正常工作。"
 
 #: admin/pages/page-dashboard.php:281
 msgid "Some PHP elements are not installed on your server. This product may not work properly. Please contact your web hoster."
-msgstr "PHP的一些元素沒有安裝在服務器上。本產品可能無法正常工作。請聯繫您的網絡託管商。"
+msgstr "PHP的一些元件並未在服務器上安裝。本產品可能無法正常工作。請聯繫您的1主機託管商。"
 
 #: admin/pages/page-dashboard.php:296
 msgid "An error occured while installing or updating"
@@ -330,7 +330,7 @@ msgstr "在安裝或更新時出現錯誤"
 
 #: admin/pages/page-dashboard.php:302
 msgid "Your server configuration prevents the product to be installed automatically."
-msgstr "你的服務器配置防止被自動安裝的產品。"
+msgstr "你的服務器配置導致產品無法自動安裝。"
 
 #: admin/pages/page-dashboard.php:306
 msgid "Show more infos"
@@ -342,11 +342,11 @@ msgstr "顯示較少的相關信息"
 
 #: admin/pages/page-logs.php:42
 msgid "No log has been written yet"
-msgstr "沒有日誌已被寫入尚未"
+msgstr "沒有日誌"
 
 #: admin/pages/page-logs.php:47
 msgid "Copy logs to clipboard"
-msgstr "日誌複製到剪貼板"
+msgstr "複製日誌到剪貼板"
 
 #: admin/pages/page-logs.php:48
 msgid "Delete logs"
