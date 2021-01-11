@@ -1,0 +1,1 @@
+# wp-script-products-translations
