@@ -1,0 +1,385 @@
+# Copyright (C) 2020 WPS Core
+# This file is distributed under the same license as the WPS Core package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPS Core\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: \n"
+"Language-Team: \n"
+
+#: config.php:98
+msgid "Loading"
+msgstr "Caricamento in corso"
+
+#: config.php:99, config.php:126, admin/pages/page-dashboard.php:92
+msgid "Reloading"
+msgstr "Ricaricamento in corso"
+
+#: config.php:101
+msgid "Invalid License Key"
+msgstr "Chiave della Licenza non Valida"
+
+#: config.php:103, admin/pages/page-logs.php:60, admin/pages/page-logs.php:72
+msgid "All"
+msgstr "Tutto"
+
+#: config.php:104, config.php:112
+msgid "Connected"
+msgstr "Connesso"
+
+#: config.php:105, config.php:113
+msgid "Not connected"
+msgstr "Non connesso"
+
+#: config.php:106, admin/pages/page-dashboard.php:258
+msgid "Installed"
+msgstr "Installato"
+
+#: config.php:107, config.php:109
+msgid "Not installed"
+msgstr "Non installato"
+
+#: config.php:110
+msgid "Coming soon"
+msgstr "Prossimamente"
+
+#: config.php:111
+msgid "Requirements"
+msgstr "Requisiti"
+
+#: config.php:115
+msgid "Buy now"
+msgstr "Acquista ora"
+
+#: config.php:116
+msgid "Connect"
+msgstr "Connettersi"
+
+#: config.php:117
+msgid "Install"
+msgstr "Installare"
+
+#: config.php:118
+msgid "Installing"
+msgstr "Installazione"
+
+#: config.php:119
+msgid "Update to"
+msgstr "Aggiorna a"
+
+#: config.php:120
+msgid "Updating to"
+msgstr "Aggiornamento a"
+
+#: config.php:121
+msgid "Activate"
+msgstr "Attivare"
+
+#: config.php:122
+msgid "Activating"
+msgstr "Attivazione"
+
+#: config.php:123
+msgid "Deactivate"
+msgstr "Disattivare"
+
+#: config.php:124
+msgid "Active theme"
+msgstr "Tema attivo"
+
+#: config.php:125
+msgid "Deactivating"
+msgstr "Disattivazione"
+
+#: config.php:128
+msgid "Your WP-Script Gold subscription has expired. Reactivate it and get instant access to all existing and future WP-Script products"
+msgstr "Il tuo abbonamento a WP-Script Gold &egrave; scaduto. Riattivalo ora ed ottieni l'accesso immediato a tutti i prodotti di WP-Script esistenti e futuri"
+
+#: config.php:129
+msgid "Join WP-Script Gold and get access to all existing and future WP-Script products"
+msgstr "Unisciti a WP-Script Gold ed accedi a tutti i prodotti di WP-Script esistenti e futuri"
+
+#: config.php:130
+msgid "Connect this site with your WP-Script Gold subscription and get instant access to all existing and future WP-Script products"
+msgstr "Collega questo sito web con il tuo abbonamento WP-Script Gold ed otterrai l'accesso immediato a tutti i prodotti di WP-Script esistenti e futuri"
+
+#: config.php:131
+msgid "You've reached the limit of sites you can connect with your current WP-Script Gold plan"
+msgstr "Hai raggiunto il limite massimo di siti web che puoi connettere con il tuo attuale piano WP-Script Gold"
+
+#: config.php:132
+msgid "Join WP-Script Gold"
+msgstr "Unisciti a WP-Script Gold"
+
+#: config.php:133
+msgid "Reactivate WP-Script Gold"
+msgstr "Riattiva WP-Script Gold"
+
+#: config.php:134
+msgid "Upgrade WP-Script Gold plan"
+msgstr "Aggiorna il piano a WP-Script Gold"
+
+#: config.php:135
+msgid "Contact us"
+msgstr "Contattaci"
+
+#: wp-script-core.php:906, wp-script-core.php:906, wp-script-core.php:1032
+msgid "Help"
+msgstr "Aiuto"
+
+#: wp-script-core.php:1022
+msgid "Plugins"
+msgstr "Plugin"
+
+#: wp-script-core.php:1053
+msgid "Thank you for using"
+msgstr "Grazie per averlo usato"
+
+#: admin/class/class-wpscore-api.php:107, admin/class/class-wpscore-api.php:129
+msgid "Params must be an array"
+msgstr "I parametri devono essere un array"
+
+#: admin/class/class-wpscore-log.php:89
+msgid "Log file error"
+msgstr "Errore del file di registro dei log"
+
+#: admin/hooks/hooks.php:18
+msgid "Thumbnail"
+msgstr "Miniatura"
+
+#: admin/hooks/hooks.php:19
+msgid "Partner"
+msgstr "Partner"
+
+#: admin/pages/page-dashboard.php:28
+msgid "Loading Core"
+msgstr "Caricamento del Core"
+
+#: admin/pages/page-dashboard.php:35
+msgid "Wordfence firewall is enabled"
+msgstr "Il firewall di Wordfence &egrave; abilitato"
+
+#: admin/pages/page-dashboard.php:36
+msgid "Wordfence Firewall mode is enabled and can prevent WP-Script plugins to work properly because of false positive."
+msgstr "La modalit&agrave; Firewall di Wordfence &egrave; abilitata e pu&ograve; impedire il corretto funzionamento dei plugin di WP-Script a causa di un falso positivo."
+
+#: admin/pages/page-dashboard.php:36
+msgid "Learn more"
+msgstr "Per saperne di pi&ugrave;"
+
+#: admin/pages/page-dashboard.php:57
+msgid "Loading Data"
+msgstr "Caricamento Dati"
+
+#: admin/pages/page-dashboard.php:90
+msgid "Activation required"
+msgstr "Attivazione richiesta"
+
+#: admin/pages/page-dashboard.php:92
+msgid "Activation Successful"
+msgstr "Attivazione Riuscita"
+
+#: admin/pages/page-dashboard.php:99
+msgid "Paste your WP-Script License Key here"
+msgstr "Incolla qui la tua Chiave della Licenza di WP-Script"
+
+#: admin/pages/page-dashboard.php:103
+msgid "Activating License"
+msgstr "Attivazione della Licenza"
+
+#: admin/pages/page-dashboard.php:106
+msgid "Activate my WP-Script License"
+msgstr "Attiva la mia Licenza di WP-Script"
+
+#: admin/pages/page-dashboard.php:113, admin/pages/page-dashboard.php:113
+msgid "Go to your WP-Script account to get your license key"
+msgstr "Vai al tuo account di WP-Script per ottenere la chiave della tua licenza"
+
+#: admin/pages/page-dashboard.php:115
+msgid "You don't have a WP-Script license yet?"
+msgstr "Non hai ancora una licenza di WP-Script?"
+
+#: admin/pages/page-dashboard.php:127
+msgid "Creating account"
+msgstr "Creazione account"
+
+#: admin/pages/page-dashboard.php:130
+msgid "Create my WP-Script Account"
+msgstr "Crea il mio Account per WP-Script"
+
+#: admin/pages/page-dashboard.php:137
+msgid "You're going to create your unique WP-Script account"
+msgstr "Stai per creare il tuo account unico per WP-Script"
+
+#: admin/pages/page-dashboard.php:137
+msgid "You will receive your login details to this email address"
+msgstr "Riceverai i tuoi dati di accesso a questo indirizzo email"
+
+#: admin/pages/page-dashboard.php:137
+msgid "No spam"
+msgstr "Niente spam"
+
+#: admin/pages/page-dashboard.php:137
+msgid "More informations"
+msgstr "Pi&ugrave; informazioni"
+
+#: admin/pages/page-dashboard.php:151
+msgid "Site connected with WP-Script Gold"
+msgstr "Sito collegato e connesso a WP-Script Gold"
+
+#: admin/pages/page-dashboard.php:153
+msgid "Your WP-Script License Key"
+msgstr "La tua Chiave di Licenza di WP-Script"
+
+#: admin/pages/page-dashboard.php:169
+msgid "WP-Script Gold"
+msgstr "WP-Script Gold"
+
+#: admin/pages/page-dashboard.php:170
+msgid "About WP-Script Gold"
+msgstr "Informazioni su WP-Script Gold"
+
+#: admin/pages/page-dashboard.php:44
+msgid "PHP > 5.3.0 is required"
+msgstr "&Egrave; richiesto PHP > 5.3.0"
+
+#: admin/pages/page-dashboard.php:47
+msgctxt "[PHP version] is required..."
+msgid "is required to use WP-Script products. Your PHP version (%s) is too old. Please contact your hoster to update it"
+msgstr "&egrave; necessario per utilizzare i prodotti di WP-Script. La tua versione PHP (%s) &egrave; troppo vecchia e/o obsoleta. Contatta il tuo fornitore di hosting per aggiornarla"
+
+#: admin/pages/page-dashboard.php:203, admin/pages/page-dashboard.php:245, admin/pages/page-dashboard.php:295
+msgid "Close"
+msgstr "Chiudi"
+
+#: admin/pages/page-dashboard.php:204
+msgid "How WP-Script products connection works?"
+msgstr "Come funziona la connessione dei prodotti di WP-Script?"
+
+#: admin/pages/page-dashboard.php:208
+msgid "The button under each product will automatically change depending on the step you are in."
+msgstr "Il pulsante sotto ogni prodotto cambier&agrave; automaticamente a seconda del passaggio in cui ti trovi."
+
+#: admin/pages/page-dashboard.php:212
+msgid "Purchase any product you need"
+msgstr "Acquista qualsiasi prodotto di cui hai bisogno"
+
+#: admin/pages/page-dashboard.php:218
+msgid "Connect the purchased product"
+msgstr "Collega il prodotto acquistato"
+
+#: admin/pages/page-dashboard.php:224
+msgid "Install the purchased product"
+msgstr "Installa il prodotto acquistato"
+
+#: admin/pages/page-dashboard.php:230
+msgid "Activate the purchased product"
+msgstr "Attiva il prodotto acquistato"
+
+#: admin/pages/page-dashboard.php:246
+msgid "Requirements for"
+msgstr "Requisiti per"
+
+#: admin/pages/page-dashboard.php:250
+msgid "There is no requirement to use this product. This product will work properly."
+msgstr "Non sono necessari requisiti particolari per utilizzare questo prodotto. Questo prodotto funzioner&agrave; correttamente."
+
+#: admin/pages/page-dashboard.php:253
+msgid "The following PHP elements must be installed on your server to use this product"
+msgstr "I seguenti elementi e/o estensioni di PHP devono essere installati sul tuo server per utilizzare questo prodotto"
+
+#: admin/pages/page-dashboard.php:256
+msgid "Name"
+msgstr "Nome"
+
+#: admin/pages/page-dashboard.php:257, admin/pages/page-logs.php:58
+msgid "Type"
+msgstr "Tipo"
+
+#: admin/pages/page-dashboard.php:269
+msgid "yes"
+msgstr "si"
+
+#: admin/pages/page-dashboard.php:272
+msgid "no"
+msgstr "no"
+
+#: admin/pages/page-dashboard.php:278
+msgid "All required PHP elements are installed on your server. This product will work properly."
+msgstr "Tutti gli elementi e/o estensioni di richiesti da PHP sono installati sul tuo server. Questo prodotto funzioner&agrave; correttamente."
+
+#: admin/pages/page-dashboard.php:281
+msgid "Some PHP elements are not installed on your server. This product may not work properly. Please contact your web hoster."
+msgstr "Alcuni elementi e/o estensioni di PHP non sono installati sul tuo server. Questo prodotto potrebbe non funzionare correttamente. Contatta il tuo fornitore di hosting."
+
+#: admin/pages/page-dashboard.php:296
+msgid "An error occured while installing or updating"
+msgstr "Si &egrave; verificato un errore durante l'installazione o durante l'aggiornamento"
+
+#: admin/pages/page-dashboard.php:302
+msgid "Your server configuration prevents the product to be installed automatically."
+msgstr "La configurazione del tuo server impedisce l'installazione automatica del prodotto."
+
+#: admin/pages/page-dashboard.php:306
+msgid "Show more infos"
+msgstr "Mostra pi&ugrave; informazioni"
+
+#: admin/pages/page-dashboard.php:311
+msgid "Show less infos"
+msgstr "Mostra meno informazioni"
+
+#: admin/pages/page-logs.php:42
+msgid "No log has been written yet"
+msgstr "Nessun registro dei log &egrave; stato ancora scritto"
+
+#: admin/pages/page-logs.php:47
+msgid "Copy logs to clipboard"
+msgstr "Copia i registri dei log negli appunti"
+
+#: admin/pages/page-logs.php:48
+msgid "Delete logs"
+msgstr "Elimina i registri di log"
+
+#: admin/pages/page-logs.php:55
+msgid "Date"
+msgstr "Data"
+
+#: admin/pages/page-logs.php:61
+msgid "Success"
+msgstr "Successo"
+
+#: admin/pages/page-logs.php:62
+msgid "Notice"
+msgstr "Avviso"
+
+#: admin/pages/page-logs.php:63
+msgid "Warning"
+msgstr "Allarme"
+
+#: admin/pages/page-logs.php:64
+msgid "Error"
+msgstr "Errore"
+
+#: admin/pages/page-logs.php:70
+msgid "Product"
+msgstr "Prodotto"
+
+#: admin/pages/page-logs.php:78
+msgid "Message"
+msgstr "Messaggio"
+
+#: admin/pages/page-logs.php:83
+msgid "Location"
+msgstr "Posizione"
