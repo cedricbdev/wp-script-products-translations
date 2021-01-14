@@ -21,15 +21,15 @@ msgstr ""
 
 #: admin/pages/page-import-photos.php:25
 msgid "Loading Page"
-msgstr "Caricamento Pagina"
+msgstr "Caricamento della Pagina"
 
 #: admin/pages/page-import-photos.php:35
 msgid "Loading Data"
-msgstr "Caricamento dati"
+msgstr "Caricamento dei Dati"
 
 #: admin/pages/page-import-photos.php:45, admin/pages/page-import-photos.php:57
 msgid "Search photos galleries"
-msgstr "Cerca Foto gallerie"
+msgstr "Cerca le gallerie delle fotografie"
 
 #: admin/pages/page-import-photos.php:50
 msgid "Keyword"
@@ -49,7 +49,7 @@ msgstr "Orientamento"
 
 #: admin/pages/page-import-photos.php:65
 msgid "Straight"
-msgstr "Dritto"
+msgstr "Eterosessuali"
 
 #: admin/pages/page-import-photos.php:66
 msgid "Gay"
@@ -61,11 +61,11 @@ msgstr "Transessuali"
 
 #: admin/pages/page-import-photos.php:71, admin/pages/page-import-photos.php:84
 msgid "Upload date"
-msgstr "Data di caricamento"
+msgstr "Data del caricamento"
 
 #: admin/pages/page-import-photos.php:73
 msgid "Any"
-msgstr "Qualunque"
+msgstr "Qualsiasi"
 
 #: admin/pages/page-import-photos.php:74
 msgid "Today"
@@ -93,7 +93,7 @@ msgstr "Rilevanza"
 
 #: admin/pages/page-import-photos.php:85
 msgid "View count"
-msgstr "Il numero di visualizzazioni"
+msgstr "Vedi il numero di visualizzazioni"
 
 #: admin/pages/page-import-photos.php:86
 msgid "Rating"
@@ -105,23 +105,23 @@ msgstr "Nessun risultato"
 
 #: admin/pages/page-import-photos.php:103
 msgid "There is no result for this keyword"
-msgstr "Non ci sono risultati per la parola chiave"
+msgstr "Non ci sono risultati per questa parola chiave"
 
 #: admin/pages/page-import-photos.php:110
 msgid "Search results"
-msgstr "Risultati di ricerca"
+msgstr "Risultati della ricerca"
 
 #: admin/pages/page-import-photos.php:111
 msgid "Close search results"
-msgstr "Risultati della ricerca Chiudere"
+msgstr "Chiudi i risultati della ricerca"
 
 #: admin/pages/page-import-photos.php:137
 msgid "Photos from gallery"
-msgstr "Le foto da galleria"
+msgstr "Le fotografie dalla galleria"
 
 #: admin/pages/page-import-photos.php:145
 msgid "Loading photos"
-msgstr "Caricamento foto"
+msgstr "Caricamento delle fotografie"
 
 #: admin/pages/page-import-photos.php:155
 msgid "Title"
@@ -133,7 +133,7 @@ msgstr "Scarica"
 
 #: admin/pages/page-import-photos.php:166
 msgid "Photo downloaded in media"
-msgstr "Foto scaricato nei media"
+msgstr "Fotografie scaricate nei media"
 
 #: admin/pages/page-import-photos.php:167
 msgid "Edit"
@@ -141,12 +141,12 @@ msgstr "Modificare"
 
 #: admin/pages/page-import-photos.php:181
 msgid "Download all photos"
-msgstr "Scarica tutte le foto"
+msgstr "Scarica tutte le fotografie"
 
 #: admin/pages/page-import-photos.php:182
 msgid "Downloading"
-msgstr "Download"
+msgstr "Scaricamento in corso"
 
 #: admin/pages/page-import-photos.php:184
 msgid "All photos are downloaded"
-msgstr "Tutte le foto vengono scaricate"
+msgstr "Tutte le fotografie sono state scaricate"
