@@ -21,365 +21,365 @@ msgstr ""
 
 #: config.php:98
 msgid "Loading"
-msgstr "載入中"
+msgstr "Caricamento in corso"
 
 #: config.php:99, config.php:126, admin/pages/page-dashboard.php:92
 msgid "Reloading"
-msgstr "重新載入中"
+msgstr "Ricaricamento in corso"
 
 #: config.php:101
 msgid "Invalid License Key"
-msgstr "無效的授權碼"
+msgstr "Chiave della Licenza non Valida"
 
 #: config.php:103, admin/pages/page-logs.php:60, admin/pages/page-logs.php:72
 msgid "All"
-msgstr "所有"
+msgstr "Tutto"
 
 #: config.php:104, config.php:112
 msgid "Connected"
-msgstr "已連接"
+msgstr "Connesso"
 
 #: config.php:105, config.php:113
 msgid "Not connected"
-msgstr "未連接"
+msgstr "Non connesso"
 
 #: config.php:106, admin/pages/page-dashboard.php:258
 msgid "Installed"
-msgstr "已安裝"
+msgstr "Installato"
 
 #: config.php:107, config.php:109
 msgid "Not installed"
-msgstr "未安裝"
+msgstr "Non installato"
 
 #: config.php:110
 msgid "Coming soon"
-msgstr "即將推出"
+msgstr "Prossimamente"
 
 #: config.php:111
 msgid "Requirements"
-msgstr "配備要求"
+msgstr "Requisiti"
 
 #: config.php:115
 msgid "Buy now"
-msgstr "立即購買"
+msgstr "Acquista ora"
 
 #: config.php:116
 msgid "Connect"
-msgstr "連接"
+msgstr "Connettersi"
 
 #: config.php:117
 msgid "Install"
-msgstr "安裝"
+msgstr "Installare"
 
 #: config.php:118
 msgid "Installing"
-msgstr "安裝中"
+msgstr "Installazione"
 
 #: config.php:119
 msgid "Update to"
-msgstr "更新至"
+msgstr "Aggiorna a"
 
 #: config.php:120
 msgid "Updating to"
-msgstr "正在更新至"
+msgstr "Aggiornamento a"
 
 #: config.php:121
 msgid "Activate"
-msgstr "啟用"
+msgstr "Attivare"
 
 #: config.php:122
 msgid "Activating"
-msgstr "正在啟用"
+msgstr "Attivazione"
 
 #: config.php:123
 msgid "Deactivate"
-msgstr "停用"
+msgstr "Disattivare"
 
 #: config.php:124
 msgid "Active theme"
-msgstr "啟用主題"
+msgstr "Tema attivo"
 
 #: config.php:125
 msgid "Deactivating"
-msgstr "停用中"
+msgstr "Disattivazione"
 
 #: config.php:128
 msgid "Your WP-Script Gold subscription has expired. Reactivate it and get instant access to all existing and future WP-Script products"
-msgstr "您的WP-Script會員已過期。請重新激活，並獲得所有現有的和未來即將推出的WP-Script產品"
+msgstr "Il tuo abbonamento a WP-Script Gold &egrave; scaduto. Riattivalo ora ed ottieni l'accesso immediato a tutti i prodotti di WP-Script esistenti e futuri"
 
 #: config.php:129
 msgid "Join WP-Script Gold and get access to all existing and future WP-Script products"
-msgstr "立即加入我們並獲得所有現有的和未來即將推出的WP-Script產品"
+msgstr "Unisciti a WP-Script Gold ed accedi a tutti i prodotti di WP-Script esistenti e futuri"
 
 #: config.php:130
 msgid "Connect this site with your WP-Script Gold subscription and get instant access to all existing and future WP-Script products"
-msgstr "將這個網站連接您的WP-Script會員帳號，獲得所有現有的和未來即將推出的WP-Script產品授權"
+msgstr "Collega questo sito web con il tuo abbonamento WP-Script Gold ed otterrai l'accesso immediato a tutti i prodotti di WP-Script esistenti e futuri"
 
 #: config.php:131
 msgid "You've reached the limit of sites you can connect with your current WP-Script Gold plan"
-msgstr "您已經達到了可連結的域名限制"
+msgstr "Hai raggiunto il limite massimo di siti web che puoi connettere con il tuo attuale piano WP-Script Gold"
 
 #: config.php:132
 msgid "Join WP-Script Gold"
-msgstr "成為WP-Script會員"
+msgstr "Unisciti a WP-Script Gold"
 
 #: config.php:133
 msgid "Reactivate WP-Script Gold"
-msgstr "重新激活WP-Script會員帳號"
+msgstr "Riattiva WP-Script Gold"
 
 #: config.php:134
 msgid "Upgrade WP-Script Gold plan"
-msgstr "升級WP-Script會員帳號"
+msgstr "Aggiorna il piano a WP-Script Gold"
 
 #: config.php:135
 msgid "Contact us"
-msgstr "聯繫我們"
+msgstr "Contattaci"
 
 #: wp-script-core.php:906, wp-script-core.php:906, wp-script-core.php:1032
 msgid "Help"
-msgstr "幫助中心"
+msgstr "Aiuto"
 
 #: wp-script-core.php:1022
 msgid "Plugins"
-msgstr "插件"
+msgstr "Plugin"
 
 #: wp-script-core.php:1053
 msgid "Thank you for using"
-msgstr "感謝您使用WP-Script"
+msgstr "Grazie per averlo usato"
 
 #: admin/class/class-wpscore-api.php:107, admin/class/class-wpscore-api.php:129
 msgid "Params must be an array"
-msgstr "Params必須是一個數組"
+msgstr "I parametri devono essere un array"
 
 #: admin/class/class-wpscore-log.php:89
 msgid "Log file error"
-msgstr "Log文件錯誤"
+msgstr "Errore del file di registro dei log"
 
 #: admin/hooks/hooks.php:18
 msgid "Thumbnail"
-msgstr "縮略圖"
+msgstr "Miniatura"
 
 #: admin/hooks/hooks.php:19
 msgid "Partner"
-msgstr "夥伴"
+msgstr "Partner"
 
 #: admin/pages/page-dashboard.php:28
 msgid "Loading Core"
-msgstr "正在加載核心文件"
+msgstr "Caricamento del Core"
 
 #: admin/pages/page-dashboard.php:35
 msgid "Wordfence firewall is enabled"
-msgstr "Wordfence防火牆已啟用"
+msgstr "Il firewall di Wordfence &egrave; abilitato"
 
 #: admin/pages/page-dashboard.php:36
 msgid "Wordfence Firewall mode is enabled and can prevent WP-Script plugins to work properly because of false positive."
-msgstr "Wordfence防火牆模式已啟用，並且可以防止WP-Script插件因錯誤而無法正常運作。"
+msgstr "La modalit&agrave; Firewall di Wordfence &egrave; abilitata e pu&ograve; impedire il corretto funzionamento dei plugin di WP-Script a causa di un falso positivo."
 
 #: admin/pages/page-dashboard.php:36
 msgid "Learn more"
-msgstr "了解更多"
+msgstr "Per saperne di pi&ugrave;"
 
 #: admin/pages/page-dashboard.php:57
 msgid "Loading Data"
-msgstr "加載數據中"
+msgstr "Caricamento Dati"
 
 #: admin/pages/page-dashboard.php:90
 msgid "Activation required"
-msgstr "要求激活"
+msgstr "Attivazione richiesta"
 
 #: admin/pages/page-dashboard.php:92
 msgid "Activation Successful"
-msgstr "激活成功"
+msgstr "Attivazione Riuscita"
 
 #: admin/pages/page-dashboard.php:99
 msgid "Paste your WP-Script License Key here"
-msgstr "請在這裡貼上您的WP-Script授權碼"
+msgstr "Incolla qui la tua Chiave della Licenza di WP-Script"
 
 #: admin/pages/page-dashboard.php:103
 msgid "Activating License"
-msgstr "激活授權碼"
+msgstr "Attivazione della Licenza"
 
 #: admin/pages/page-dashboard.php:106
 msgid "Activate my WP-Script License"
-msgstr "激活我的WP-Script授權碼"
+msgstr "Attiva la mia Licenza di WP-Script"
 
 #: admin/pages/page-dashboard.php:113, admin/pages/page-dashboard.php:113
 msgid "Go to your WP-Script account to get your license key"
-msgstr "前往您的WP-Script賬戶，找到您的授權碼"
+msgstr "Vai al tuo account di WP-Script per ottenere la chiave della tua licenza"
 
 #: admin/pages/page-dashboard.php:115
 msgid "You don't have a WP-Script license yet?"
-msgstr "還沒購買WP-Script授權碼?"
+msgstr "Non hai ancora una licenza di WP-Script?"
 
 #: admin/pages/page-dashboard.php:127
 msgid "Creating account"
-msgstr "創建帳戶"
+msgstr "Creazione account"
 
 #: admin/pages/page-dashboard.php:130
 msgid "Create my WP-Script Account"
-msgstr "創建我的WP-Script賬戶"
+msgstr "Crea il mio Account per WP-Script"
 
 #: admin/pages/page-dashboard.php:137
 msgid "You're going to create your unique WP-Script account"
-msgstr "正在創建你的專屬WP-Script賬戶"
+msgstr "Stai per creare il tuo account unico per WP-Script"
 
 #: admin/pages/page-dashboard.php:137
 msgid "You will receive your login details to this email address"
-msgstr "您將在這個電子郵件地址收到您的登錄信息"
+msgstr "Riceverai i tuoi dati di accesso a questo indirizzo email"
 
 #: admin/pages/page-dashboard.php:137
 msgid "No spam"
-msgstr "沒有垃圾郵件"
+msgstr "Niente spam"
 
 #: admin/pages/page-dashboard.php:137
 msgid "More informations"
-msgstr "更多信息"
+msgstr "Pi&ugrave; informazioni"
 
 #: admin/pages/page-dashboard.php:151
 msgid "Site connected with WP-Script Gold"
-msgstr "網站已連接WP-Script"
+msgstr "Sito collegato e connesso a WP-Script Gold"
 
 #: admin/pages/page-dashboard.php:153
 msgid "Your WP-Script License Key"
-msgstr "您的WP-Script授權碼"
+msgstr "La tua Chiave di Licenza di WP-Script"
 
 #: admin/pages/page-dashboard.php:169
 msgid "WP-Script Gold"
-msgstr "WP-Script會員"
+msgstr "WP-Script Gold"
 
 #: admin/pages/page-dashboard.php:170
 msgid "About WP-Script Gold"
-msgstr "關於WP-Script會員"
+msgstr "Informazioni su WP-Script Gold"
 
 #: admin/pages/page-dashboard.php:44
 msgid "PHP > 5.3.0 is required"
-msgstr "PHP版本需高於5.3.0"
+msgstr "&Egrave; richiesto PHP > 5.3.0"
 
 #: admin/pages/page-dashboard.php:47
 msgctxt "[PHP version] is required..."
 msgid "is required to use WP-Script products. Your PHP version (%s) is too old. Please contact your hoster to update it"
-msgstr "並不符合基本要求，您的PHP版本 (%s) 太舊，如需要使用WP-Script產品，請聯繫您的主機供應商進行更新"
+msgstr "&egrave; necessario per utilizzare i prodotti di WP-Script. La tua versione PHP (%s) &egrave; troppo vecchia e/o obsoleta. Contatta il tuo fornitore di hosting per aggiornarla"
 
 #: admin/pages/page-dashboard.php:203, admin/pages/page-dashboard.php:245, admin/pages/page-dashboard.php:295
 msgid "Close"
-msgstr "關閉"
+msgstr "Chiudi"
 
 #: admin/pages/page-dashboard.php:204
 msgid "How WP-Script products connection works?"
-msgstr "如何與WP-Script產品連接？"
+msgstr "Come funziona la connessione dei prodotti di WP-Script?"
 
 #: admin/pages/page-dashboard.php:208
 msgid "The button under each product will automatically change depending on the step you are in."
-msgstr "每個產品下面的按鍵將根據您的狀態改變"
+msgstr "Il pulsante sotto ogni prodotto cambier&agrave; automaticamente a seconda del passaggio in cui ti trovi."
 
 #: admin/pages/page-dashboard.php:212
 msgid "Purchase any product you need"
-msgstr "購買你需要的產品"
+msgstr "Acquista qualsiasi prodotto di cui hai bisogno"
 
 #: admin/pages/page-dashboard.php:218
 msgid "Connect the purchased product"
-msgstr "連接所購產品"
+msgstr "Collega il prodotto acquistato"
 
 #: admin/pages/page-dashboard.php:224
 msgid "Install the purchased product"
-msgstr "安裝已購買的產品"
+msgstr "Installa il prodotto acquistato"
 
 #: admin/pages/page-dashboard.php:230
 msgid "Activate the purchased product"
-msgstr "激活所購產品"
+msgstr "Attiva il prodotto acquistato"
 
 #: admin/pages/page-dashboard.php:246
 msgid "Requirements for"
-msgstr "對於"
+msgstr "Requisiti per"
 
 #: admin/pages/page-dashboard.php:250
 msgid "There is no requirement to use this product. This product will work properly."
-msgstr "本產品並非無使用要求，產品將正常工作。"
+msgstr "Non sono necessari requisiti particolari per utilizzare questo prodotto. Questo prodotto funzioner&agrave; correttamente."
 
 #: admin/pages/page-dashboard.php:253
 msgid "The following PHP elements must be installed on your server to use this product"
-msgstr "如要使用本產品，安裝必須在服務器上安裝下列的PHP元件"
+msgstr "I seguenti elementi e/o estensioni di PHP devono essere installati sul tuo server per utilizzare questo prodotto"
 
 #: admin/pages/page-dashboard.php:256
 msgid "Name"
-msgstr "名稱"
+msgstr "Nome"
 
 #: admin/pages/page-dashboard.php:257, admin/pages/page-logs.php:58
 msgid "Type"
-msgstr "類型"
+msgstr "Tipo"
 
 #: admin/pages/page-dashboard.php:269
 msgid "yes"
-msgstr "是"
+msgstr "si"
 
 #: admin/pages/page-dashboard.php:272
 msgid "no"
-msgstr "否"
+msgstr "no"
 
 #: admin/pages/page-dashboard.php:278
 msgid "All required PHP elements are installed on your server. This product will work properly."
-msgstr "所有需要的PHP元件已在服務器上安裝，該產品將正常工作。"
+msgstr "Tutti gli elementi e/o estensioni di richiesti da PHP sono installati sul tuo server. Questo prodotto funzioner&agrave; correttamente."
 
 #: admin/pages/page-dashboard.php:281
 msgid "Some PHP elements are not installed on your server. This product may not work properly. Please contact your web hoster."
-msgstr "PHP的一些元件並未在服務器上安裝。本產品可能無法正常工作。請聯繫您的1主機託管商。"
+msgstr "Alcuni elementi e/o estensioni di PHP non sono installati sul tuo server. Questo prodotto potrebbe non funzionare correttamente. Contatta il tuo fornitore di hosting."
 
 #: admin/pages/page-dashboard.php:296
 msgid "An error occured while installing or updating"
-msgstr "在安裝或更新時出現錯誤"
+msgstr "Si &egrave; verificato un errore durante l'installazione o durante l'aggiornamento"
 
 #: admin/pages/page-dashboard.php:302
 msgid "Your server configuration prevents the product to be installed automatically."
-msgstr "你的服務器配置導致產品無法自動安裝。"
+msgstr "La configurazione del tuo server impedisce l'installazione automatica del prodotto."
 
 #: admin/pages/page-dashboard.php:306
 msgid "Show more infos"
-msgstr "顯示更多的相關信息"
+msgstr "Mostra pi&ugrave; informazioni"
 
 #: admin/pages/page-dashboard.php:311
 msgid "Show less infos"
-msgstr "顯示較少的相關信息"
+msgstr "Mostra meno informazioni"
 
 #: admin/pages/page-logs.php:42
 msgid "No log has been written yet"
-msgstr "沒有日誌"
+msgstr "Nessun registro dei log &egrave; stato ancora scritto"
 
 #: admin/pages/page-logs.php:47
 msgid "Copy logs to clipboard"
-msgstr "複製日誌到剪貼板"
+msgstr "Copia i registri dei log negli appunti"
 
 #: admin/pages/page-logs.php:48
 msgid "Delete logs"
-msgstr "刪除日誌"
+msgstr "Elimina i registri di log"
 
 #: admin/pages/page-logs.php:55
 msgid "Date"
-msgstr "日期"
+msgstr "Data"
 
 #: admin/pages/page-logs.php:61
 msgid "Success"
-msgstr "成功"
+msgstr "Successo"
 
 #: admin/pages/page-logs.php:62
 msgid "Notice"
-msgstr "注意"
+msgstr "Avviso"
 
 #: admin/pages/page-logs.php:63
 msgid "Warning"
-msgstr "警告"
+msgstr "Allarme"
 
 #: admin/pages/page-logs.php:64
 msgid "Error"
-msgstr "錯誤"
+msgstr "Errore"
 
 #: admin/pages/page-logs.php:70
 msgid "Product"
-msgstr "產品"
+msgstr "Prodotto"
 
 #: admin/pages/page-logs.php:78
 msgid "Message"
-msgstr "信息"
+msgstr "Messaggio"
 
 #: admin/pages/page-logs.php:83
 msgid "Location"
-msgstr "位置"
+msgstr "Posizione"
