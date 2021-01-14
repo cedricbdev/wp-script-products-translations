@@ -1,0 +1,152 @@
+# Copyright (C) 2020 WPS Mass Photos Downloader
+# This file is distributed under the same license as the WPS Mass Photos Downloader package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPS Mass Photos Downloader\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: \n"
+"Language-Team: \n"
+
+#: admin/pages/page-import-photos.php:25
+msgid "Loading Page"
+msgstr "Загрузка страницы"
+
+#: admin/pages/page-import-photos.php:35
+msgid "Loading Data"
+msgstr "Загрузка данных"
+
+#: admin/pages/page-import-photos.php:45, admin/pages/page-import-photos.php:57
+msgid "Search photos galleries"
+msgstr "Поиск фото галереи"
+
+#: admin/pages/page-import-photos.php:50
+msgid "Keyword"
+msgstr "Ключевое слово"
+
+#: admin/pages/page-import-photos.php:52
+msgid "Filters"
+msgstr "Фильтры"
+
+#: admin/pages/page-import-photos.php:58
+msgid "Searching"
+msgstr "Поиск"
+
+#: admin/pages/page-import-photos.php:63
+msgid "Orientation"
+msgstr "Ориентация"
+
+#: admin/pages/page-import-photos.php:65
+msgid "Straight"
+msgstr "Прямо"
+
+#: admin/pages/page-import-photos.php:66
+msgid "Gay"
+msgstr "Гей"
+
+#: admin/pages/page-import-photos.php:67
+msgid "Shemale"
+msgstr "Транссексуал"
+
+#: admin/pages/page-import-photos.php:71, admin/pages/page-import-photos.php:84
+msgid "Upload date"
+msgstr "Дата загрузки"
+
+#: admin/pages/page-import-photos.php:73
+msgid "Any"
+msgstr "Любой"
+
+#: admin/pages/page-import-photos.php:74
+msgid "Today"
+msgstr "Cегодня"
+
+#: admin/pages/page-import-photos.php:75
+msgid "This week"
+msgstr "Эта неделя"
+
+#: admin/pages/page-import-photos.php:76
+msgid "This month"
+msgstr "Этот месяц"
+
+#: admin/pages/page-import-photos.php:77
+msgid "This year"
+msgstr "В этом году"
+
+#: admin/pages/page-import-photos.php:81
+msgid "Sort by"
+msgstr "Сортировать по"
+
+#: admin/pages/page-import-photos.php:83
+msgid "Relevance"
+msgstr "Актуальность"
+
+#: admin/pages/page-import-photos.php:85
+msgid "View count"
+msgstr "Счетчик просмотров"
+
+#: admin/pages/page-import-photos.php:86
+msgid "Rating"
+msgstr "Рейтинг"
+
+#: admin/pages/page-import-photos.php:102
+msgid "No result"
+msgstr "Безрезультатно"
+
+#: admin/pages/page-import-photos.php:103
+msgid "There is no result for this keyword"
+msgstr "Там нет результата для этого ключевого слова"
+
+#: admin/pages/page-import-photos.php:110
+msgid "Search results"
+msgstr "Результаты поиска"
+
+#: admin/pages/page-import-photos.php:111
+msgid "Close search results"
+msgstr "Закрыть результаты поиска"
+
+#: admin/pages/page-import-photos.php:137
+msgid "Photos from gallery"
+msgstr "Фотографии из галереи"
+
+#: admin/pages/page-import-photos.php:145
+msgid "Loading photos"
+msgstr "Загрузка фотографий"
+
+#: admin/pages/page-import-photos.php:155
+msgid "Title"
+msgstr "Заглавие"
+
+#: admin/pages/page-import-photos.php:160
+msgid "Download"
+msgstr "Скачать"
+
+#: admin/pages/page-import-photos.php:166
+msgid "Photo downloaded in media"
+msgstr "Фото загружены в СМИ"
+
+#: admin/pages/page-import-photos.php:167
+msgid "Edit"
+msgstr "Редактировать"
+
+#: admin/pages/page-import-photos.php:181
+msgid "Download all photos"
+msgstr "Скачать все фотографии"
+
+#: admin/pages/page-import-photos.php:182
+msgid "Downloading"
+msgstr "Загрузка"
+
+#: admin/pages/page-import-photos.php:184
+msgid "All photos are downloaded"
+msgstr "Все фотографии загружаются"
